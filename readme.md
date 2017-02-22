@@ -8,10 +8,11 @@
 
 ## 数据下载
 
+链接: https://pan.baidu.com/s/1miTsWI0 密码: 9ziw
 
 ## 解决方案
 
-详细解决方案戳这里
+详细解决方案pdf戳[这里](https://github.com/feidapeng/2016CCF_StateGrid_UserProfile/blob/master/%E5%AE%A2%E6%88%B7%E7%94%BB%E5%83%8F%E6%AF%94%E8%B5%9B%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.pdf)
 
 
 
@@ -77,6 +78,15 @@ result/
     result.csv          合并结果
 ```
 
+## 其他
+如果觉得不错的话，欢迎大家点击右上角star，谢谢！
 
+我们参加的其他竞赛：
+
+[2nd Place Solution for SMP CUP 2016](https://github.com/liyumeng/SmpCup2016)
+
+[2016CCF 大数据精准营销中搜狗用户画像挖掘 final winner solution](https://github.com/hengchao0248/ccf2016_sougou)
+
+![](others/banner.jpg)
 
 
